@@ -78,4 +78,6 @@ Required: Yes
 ##### Deployment
 
 You can access the application using the below url.
-https://modern-task-manager.netlify.app/
+
+DEPLOYMENT-BACKEND = The backend code is deployed on render.com (https://task-manager-backend-o4sn.onrender.com)
+DEPLOYMENT-FRONTEND = The frontend is deployed on Netlify (https://modern-task-manager.netlify.app/)
