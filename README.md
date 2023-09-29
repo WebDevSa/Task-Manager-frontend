@@ -30,36 +30,36 @@ Here are the main dependencies and technologies used in this project:
 
 URL: /
 
-HTTP Method: GET
+HTTP METHOD: GET
 
-Description: Retrieves a list of all tasks.
+DESCRIPTION: Retrieves a list of all tasks.
 
 
 => Save All Tasks
 
 URL: '/save'
 
-HTTP Method: POST
+HTTP METHOD: POST
 
-Description: Retrieves a list of all tasks.
+DESCRIPTION: Retrieves a list of all tasks.
 
 
 => Update/Edit Tasks
 
 URL: '/update'
 
-HTTP Method: PUT
+HTTP METHOD: PUT
 
-Description: Updates an existing task by ID.
+DESCRIPTION: Updates an existing task by ID.
 
 
 => Delete Tasks
 
 URL: '/delete'
 
-HTTP Method: DELETE
+HTTP METHOD: DELETE
 
-Description: Deletes a task by ID.
+DESCRIPTION: Deletes a task by ID.
 
 
 ###### Database Schema
