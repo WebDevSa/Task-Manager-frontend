@@ -1,13 +1,12 @@
 # Task Manager App
 This is a simple Task Manager application built with the MERN stack (MongoDB, Express, React, Node.js).
 Which has the following features: 
-->Add-User can add new tasks.
+->ADD-User can add new tasks.
 
-->Update-User can select and edit the tasks added.
+->UPDATE-User can select and edit the tasks added.
 
-->Delete-User can delete the task.
+->DELETE-User can delete the task.
 
-->View Task list-Shows the list of all the tasks added with its Unique ID.
 
 
 ## Dependencies
