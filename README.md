@@ -56,3 +56,4 @@ Required: Yes
 
 ##### Deployment
 You can access the application using the below url.
+https://modern-task-manager.netlify.app/
