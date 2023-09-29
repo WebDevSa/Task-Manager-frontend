@@ -29,34 +29,53 @@ Here are the main dependencies and technologies used in this project:
 =>Get All Tasks
 
 URL: /
+
 HTTP Method: GET
+
 Description: Retrieves a list of all tasks.
+
 
 => Save All Tasks
 
 URL: '/save'
+
 HTTP Method: POST
+
 Description: Retrieves a list of all tasks.
+
 
 => Update/Edit Tasks
 
 URL: '/update'
+
 HTTP Method: PUT
+
 Description: Updates an existing task by ID.
+
 
 => Delete Tasks
 
 URL: '/delete'
+
 HTTP Method: DELETE
+
 Description: Deletes a task by ID.
 
+
 ###### Database Schema
+
 Task Collection
+
 Field: text
+
 Type: String
+
 Description: The text description of the task.
+
 Required: Yes
 
+
 ##### Deployment
+
 You can access the application using the below url.
 https://modern-task-manager.netlify.app/
